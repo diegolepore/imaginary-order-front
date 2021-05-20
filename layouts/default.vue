@@ -34,4 +34,8 @@ h6 {
   box-sizing: border-box;
   margin: 0;
 }
+
+p {
+  margin-bottom: 24px;
+}
 </style>
