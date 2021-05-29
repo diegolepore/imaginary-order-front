@@ -53,6 +53,7 @@ export default {
   },
 
   markdownit: {
-    runtime: true
+    runtime: true,
+    html: true,
   }
 }
